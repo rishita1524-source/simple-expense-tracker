@@ -13,7 +13,7 @@ Simple Expense Tracker is a desktop application that allows you to easily record
 - Simple Interface: Clean and intuitive GUI built with Tkinter
 - Cross-Platform: Works on Windows, macOS, and Linux
 
-# 🛠️ Installation
+# Installation
 
 # Prerequisites
 - Python 3.8 or higher
